@@ -1,0 +1,5 @@
+# Register at DeepL and get your auth key
+deepl:
+  auth_key: YOUR_AUTH_KEY
+
+# For Google sdk authentication. Please refer to this url: https://cloud.google.com/docs/authentication/provide-credentials-adc?hl=zh-cn#local-dev
