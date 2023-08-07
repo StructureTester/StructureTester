@@ -8,7 +8,7 @@
 
 #### Overview:
 
-<img src="./imgs/overview.png" title="Time cost" width="800px" height="250px">
+<img src="imgs/ov.png" title="Time cost" width="800px" height="250px">
 
 #### Steps to run:
 
