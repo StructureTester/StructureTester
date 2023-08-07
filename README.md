@@ -47,4 +47,17 @@
 
    <img src="./imgs/tc.png" title="Time cost" width="800px" height="350px">
 
+#### Addition notices:
+
+1. StructureTester supports multiple languages. In this repository, we only set up StructureTester for Chinese ->
+   English
+   translation
+
+2. To set up StructureTester for other languages three main configuration is needed
+   1. Set up the corresponding target for translation in **utils.dataset_util.py** or implement your own translate
+      method
+   2. Set up the corresponding pipeline for [**spacy**](https://spacy.io/models)
+   3. Download extra [**jar package**](https://stanfordnlp.github.io/CoreNLP/human-languages.html) to configure CoreNLP
+      server support other languages
+
 ##### @CopyRight: Yemao Luo, 6th, August, 2023 :)
