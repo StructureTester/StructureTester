@@ -48,9 +48,8 @@
 
 #### Addition notices:
 
-1. StructureTester supports multiple languages. In this repository, we only set up StructureTester for Chinese ->
-   English
-   translation
+1. StructureTester supports multiple languages but we only set up StructureTester for Chinese ->
+   English translation in this repository
 
 2. To set up StructureTester for other languages three main configuration is needed
    1. Set up the corresponding target for translation in **utils.dataset_util.py** or implement your own translation
