@@ -1,4 +1,4 @@
-### StructureTester: Automatic Machine Translation Testing Based on Variation Feature Vector
+### StructureTester: Automatic Machine Translation Testing Based on Variation Feature Vector (Accepted)
 
 #### Author: Wei Luo, Yemao Luo, Yao Li, Tao Zhang*
 
